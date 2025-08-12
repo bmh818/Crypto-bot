@@ -87,7 +87,7 @@ PORTFOLIO_HOLDINGS = {
         'quantity': 443.13286966
     },
     'sui': {
-        'quantity': 575.98751
+        'quantity': 831.23435
     },
     'sei-network': {
         'quantity': 7168.87
